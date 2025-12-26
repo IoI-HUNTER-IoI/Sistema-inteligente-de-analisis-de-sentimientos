@@ -1,8 +1,5 @@
-streamlit
+fastapi
+uvicorn[standard]
 torch
 transformers
 nltk
-wordcloud
-matplotlib
-sentencepiece
-
